@@ -8,7 +8,7 @@
 
 <h2 align="left">🔧 Skills & Technologies:</h2>
 
-<h3 align="left">Frontend:</h3>
+<h3 align="left">🌐 Frontend:</h3>
 <p align="left">
   HTML, CSS, JavaScript 🌐<br>
   React.js for building interactive user interfaces ⚛️<br>
@@ -16,14 +16,14 @@
   Tailwind CSS for efficient styling 💅
 </p>
 
-<h3 align="left">Backend:</h3>
+<h3 align="left">🚀 Backend:</h3>
 <p align="left">
   Node.js with Express.js for server-side development 🚀<br>
   MongoDB for database management 📊<br>
   MySQL for relational database systems 🗄️
 </p>
 
-<h3 align="left">Full Stack Frameworks:</h3>
+<h3 align="left">🌐+ 🚀 Full Stack Frameworks:</h3>
 <p align="left">
   Experienced in MERN (MongoDB, Express.js, React.js, Node.js) 📦<br>
   Currently exploring Next.js for server-rendered React applications 🚀
@@ -63,7 +63,7 @@
 <h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulshan07dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshan07dev&theme=buefy&hide_border=false"  height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan07dev&theme=buefy&show_icons=true&hide_border=false&layout=compact"  height="220" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gulshan07dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshan07dev&theme=buefy&hide_border=false"   alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan07dev&theme=buefy&show_icons=true&hide_border=false&layout=compact"    alt="streak graph"/>
 </div>
