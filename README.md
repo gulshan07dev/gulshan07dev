@@ -28,11 +28,7 @@
   Experienced in MERN (MongoDB, Express.js, React.js, Node.js) 📦<br>
   Currently exploring Next.js for server-rendered React applications 🚀
 </p>
-
-<h3 align="left">🚀 Recent Projects:</h3>
-<p><strong>Mern Todo App: </strong>A full-stack task management application with CRUD functionality and User Authentication.</p>
-<p><strong>Learning Management System (LMS): </strong> A platform for user and admin. User Authentication, course and lecture managements, enrollment, and progress tracking and more. </p>
-
+ 
 ###
 
 <h2 align="center">Connect with me</h2>
